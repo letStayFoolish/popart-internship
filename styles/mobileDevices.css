@@ -168,6 +168,10 @@
         display: none;
     }
 
+    .hero__social {
+        display: none;
+    }
+
     /*     Cover */
     .cover__container {
         padding: 20px 0;
