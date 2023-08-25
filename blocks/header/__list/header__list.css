@@ -1,0 +1,6 @@
+.header__list {
+    font-family: var(--font-family-secondary);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}

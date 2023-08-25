@@ -1,0 +1,4 @@
+.card-contributors {
+    display: flex;
+    flex-direction: column;
+}

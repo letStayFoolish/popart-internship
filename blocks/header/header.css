@@ -1,0 +1,13 @@
+.header {
+    padding-top: 1.62rem;
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    opacity: 1;
+    transition: all 1s ease;
+}
+
+.header.active {
+    height: 200px;
+    transition: all 1s ease;
+}

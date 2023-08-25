@@ -1,0 +1,6 @@
+.hero__decoration_position_top {
+    margin: 13px auto 139px;
+    width: 60px;
+    height: 60px;
+    animation: rotate 6s linear infinite;
+}

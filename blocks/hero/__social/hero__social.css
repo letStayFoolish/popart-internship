@@ -1,0 +1,6 @@
+.hero__social {
+    position: fixed;
+    z-index: 50;
+    right: 36px;
+    top: 258px;
+}

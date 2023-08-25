@@ -1,0 +1,16 @@
+.btn__container {
+    margin: 29px 0 0;
+    padding: 0;
+    outline: none;
+    border: none;
+    background: transparent;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+    transition: all .7s ease;
+}
+
+.btn__container:hover {
+    /*opacity: .8;*/
+    transform: scale3d(1.05, 1.05, 1.05);
+}

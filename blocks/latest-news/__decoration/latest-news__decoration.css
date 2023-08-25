@@ -1,0 +1,6 @@
+.latest-news__decoration {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    animation: rotate 6s linear infinite;
+}

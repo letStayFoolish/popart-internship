@@ -1,0 +1,6 @@
+.burger-line {
+    width: 25px;
+    height: 3px;
+    background-color: var(--theme-color-light-text);
+    margin: 3px 0;
+}

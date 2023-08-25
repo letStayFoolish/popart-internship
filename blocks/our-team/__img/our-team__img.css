@@ -1,0 +1,9 @@
+.body-team__image {
+    max-width: 458px;
+    min-width: 100px;
+    height: 458px;
+    min-height: 100px;
+    object-fit: cover;
+    object-position: center;
+    margin-right: 41px;
+}

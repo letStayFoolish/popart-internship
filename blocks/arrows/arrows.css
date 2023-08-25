@@ -1,0 +1,12 @@
+.arrows {
+    width: 70px;
+    height: 30px;
+    position: relative;
+    cursor: pointer;
+    transition: all 1s ease-in-out;
+}
+
+.arrows:hover {
+    opacity: .8;
+    transform: translateX(20px);
+}

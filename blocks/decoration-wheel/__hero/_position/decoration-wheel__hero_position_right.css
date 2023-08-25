@@ -1,0 +1,7 @@
+.decoration-wheel__hero_position_right {
+    width: 76px;
+    height: 75px;
+    position: relative;
+    top: 19.5%;
+    animation: rotate 6s linear infinite;
+}

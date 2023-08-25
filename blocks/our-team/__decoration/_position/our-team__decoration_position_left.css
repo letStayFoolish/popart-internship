@@ -1,0 +1,8 @@
+.our-team__decoration_position_left {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: -6px;
+    left: 124px;
+    animation: rotate 6s linear infinite;
+}

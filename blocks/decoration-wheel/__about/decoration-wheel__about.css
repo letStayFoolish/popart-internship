@@ -1,0 +1,7 @@
+.decoration-wheel__about {
+    position: absolute;
+    top: 347px;
+    right: 100px;
+    width: 102px;
+    animation: rotate 6s linear infinite;
+}

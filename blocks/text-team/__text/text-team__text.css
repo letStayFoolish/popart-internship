@@ -1,0 +1,4 @@
+.text-team__text {
+    color: var(--theme-color-light-text);
+    max-width: 779px;
+}

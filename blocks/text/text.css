@@ -1,0 +1,7 @@
+.text {
+    position: absolute;
+    transform: translate(-50%, -50%);
+    color: var(--theme-color-primary);
+    font-family: var(--font-family-primary);
+    text-transform: uppercase;
+}

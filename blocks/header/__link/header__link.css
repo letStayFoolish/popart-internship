@@ -1,0 +1,11 @@
+.header__link {
+    transition: var(--transition-on-hover);
+    font-size: 1.75rem;
+    line-height: 2rem;
+    letter-spacing: -0.075rem;
+}
+
+.header__link:hover {
+    opacity: .8;
+    text-decoration: underline;
+}

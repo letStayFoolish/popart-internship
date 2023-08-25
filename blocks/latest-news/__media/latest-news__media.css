@@ -1,0 +1,7 @@
+.latest-news__media {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-template-rows: auto;
+    column-gap: 90px;
+    margin-bottom: 11px;
+}

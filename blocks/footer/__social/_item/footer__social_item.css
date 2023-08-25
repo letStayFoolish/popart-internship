@@ -1,0 +1,9 @@
+.footer__social_item {
+    transform: translateY(0);
+    transition: transform .5s ease;
+}
+
+.footer__social_item:hover {
+    transform: translateY(-10px);
+    transition: transform .5s ease;
+}

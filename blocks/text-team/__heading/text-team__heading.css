@@ -1,0 +1,4 @@
+.text-team__heading {
+    color: var(--theme-color-green);
+    max-width: 828px;
+}

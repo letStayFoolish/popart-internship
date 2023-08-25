@@ -1,0 +1,7 @@
+.our-team__arrows {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /*padding: 192px 0 65px;*/
+    padding-bottom: 65px;
+}

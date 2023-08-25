@@ -1,0 +1,9 @@
+.hero__social-link {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+}
+
+.hero__social-link img {
+    align-items: center;
+}

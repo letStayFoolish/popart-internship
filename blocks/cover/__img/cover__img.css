@@ -1,0 +1,5 @@
+.cover__img {
+    width: 1346px;
+    object-fit: cover;
+    object-position: center;
+}

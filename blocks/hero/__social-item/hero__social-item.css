@@ -1,0 +1,11 @@
+.hero__social-item:not(:last-child) {
+    margin-bottom: 1.5rem;
+    transform: scale(100%);
+    transition: all .5s ease-in-out;
+}
+
+.hero__social-item:hover {
+    opacity: .8;
+    transform: scale(150%);
+    transition: opacity, transform .5s ease-in-out;
+}

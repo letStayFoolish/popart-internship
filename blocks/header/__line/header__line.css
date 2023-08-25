@@ -1,0 +1,9 @@
+.header__line {
+    color: var(--theme-color-light-text);
+    width: 2px;
+    height: 20px;
+    opacity: .3;
+    background: var(--theme-color-light-text);
+    margin: 0 1.25rem;
+    padding: 0;
+}
