@@ -28,13 +28,13 @@
     }
 
     .body-text {
-        font-size: 1.35rem;
-        line-height: 1.35rem;
+        font-size: 1.55rem;
+        line-height: 1.55rem;
     }
 
     .small-text {
-        font-size: 1.25rem;
-        line-height: 1.2rem;
+        font-size: 1.4rem;
+        line-height: 1.4rem;
     }
 
     .arrows {
@@ -398,7 +398,7 @@
     }
 
     .card__date {
-        font-size: 14px;
+        margin-bottom: 25px;
     }
 
     .latest-news__decoration {
@@ -449,10 +449,10 @@
     }
 
     .footer__social_grid {
-        margin-top: 20px;
+        margin: 20px 0;
         grid-template-columns: repeat(3, 1fr);
         grid-template-rows: auto auto;
-        gap: 22px;
+        gap: 40px;
     }
 
     .footer__decoration {
@@ -460,9 +460,14 @@
     }
 
     .footer__text {
+        margin-top: 20px;
         text-align: center;
         padding-top: 5px;
-        font-size: 1rem;
+    }
+
+    .footer__social_img {
+        width: 32px;
+        height: 32px;
     }
 
 
