@@ -74,10 +74,7 @@
 
     .header__navigation {
         transform: translateY(-400px);
-        /*display: none; !* Hide the navigation menu on smaller screens *!*/
         flex-direction: column;
-        /*backdrop-filter: blur(10px);*/
-        /*box-shadow: 0 0 10px var(--theme-color-dark);*/
         padding-bottom: 20px;
         position: absolute;
         top: 87.85px;

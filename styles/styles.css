@@ -13,6 +13,9 @@
 
     --font-family-primary: 'Aspergit', sans-serif;
     --font-family-secondary: 'Futura PT', sans-serif;
+
+
+    /*filter: blur(3px);*/
 }
 
 @keyframes rotate {
@@ -163,6 +166,10 @@ img {
 
 .blur-on-scroll {
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+    -moz-backdrop-filter: blur(10px);
+    -o-backdrop-filter: blur(10px);
+    -ms-backdrop-filter: blur(10px);
     box-shadow: 0 0 10px var(--theme-color-dark);
     padding-bottom: 1.62rem;
     transition: all .3s ease;
